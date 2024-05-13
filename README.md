@@ -41,10 +41,3 @@ This repository contains scripts for 4 experiments :
 All stimuli used in the experiments are available on OSF in their related folder : 
 
 https://osf.io/2xtsn/?view_only=22f09bb4dc5f4a11823103141ca2f735
-
-To download them just type (for MacOS and linux):
-
-```bash
-make clean
-make stimuli
-```
