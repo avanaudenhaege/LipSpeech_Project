@@ -1,0 +1,3 @@
+[submodule "LipSpeech_PhonologicalDecoding_MVPA"]
+	path = LipSpeech_PhonologicalDecoding_MVPA
+	url = https://github.com/avanaudenhaege/LipSpeech_PhonologicalDecoding_MVPA
