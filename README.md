@@ -10,7 +10,7 @@ There are some git submodules needed to run the code.
 To clone the repository and all submodules, use the following command:
 
 ```
-git clone -- recursive https://github.com/avanaudenhaege/TO CHANGE
+git clone -- recursive https://github.com/avanaudenhaege/LipSpeech_project.git
 ```
 
 ## Description
