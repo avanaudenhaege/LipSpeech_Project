@@ -1,3 +1,12 @@
 [submodule "LipSpeech_PhonologicalDecoding_MVPA"]
 	path = LipSpeech_PhonologicalDecoding_MVPA
 	url = https://github.com/avanaudenhaege/LipSpeech_PhonologicalDecoding_MVPA
+[submodule "VOTC_localizer"]
+	path = VOTC_localizer
+	url = https://github.com/avanaudenhaege/LipSpeech_VOTC_loc
+[submodule "VisualSpeech_localizer"]
+	path = VisualSpeech_localizer
+	url = https://github.com/avanaudenhaege/LipSpeech_VisualSpeech_loc
+[submodule "AuditorySpeech_localizer"]
+	path = AuditorySpeech_localizer
+	url = https://github.com/avanaudenhaege/LipSpeech_AuditorySpeech_loc
